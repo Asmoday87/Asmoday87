@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Asmoday87/Viktor_Makin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Asmoday87/Asmoday87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
