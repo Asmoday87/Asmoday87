@@ -37,5 +37,5 @@
 
 ### Сертификаты:
 - Курс по SQL 
-- "Поколение Python": курс для начинающих
+- <a href="https://github.com/Asmoday87/Asmoday87/blob/main/stepik-certificate-python.pdf">Поколение Python": курс для начинающих</a>
 - QA manual
