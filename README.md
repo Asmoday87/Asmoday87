@@ -36,6 +36,6 @@
 - Тестирование API. Postman. Репозиторий с демонстрационной работой;
 
 ### Сертификаты:
-- Курс по SQL 
+- <a href="https://github.com/Asmoday87/Asmoday87/blob/main/stepik-certificate-python.pdf](https://github.com/Asmoday87/Asmoday87/blob/main/certificate-SQL.pdf">Курс по SQL</a>
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/stepik-certificate-python.pdf">Поколение Python": курс для начинающих</a>
-- QA manual
+- <a href="https://github.com/Asmoday87/Asmoday87/blob/main/stepik-certificate-python.pdf](https://github.com/Asmoday87/Asmoday87/blob/main/QA-Manual.pdf">QA manual</a>
