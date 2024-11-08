@@ -41,7 +41,8 @@
 - Чек-лист
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/test-case.md">Тест-кейсы</a>
 - Баг-репорт
-- Тестирование API. Postman. Репозиторий с демонстрационной работой;
+- Работа с SQL-запросами
+- Тестирование API. Postman.
 
 ### Сертификаты:
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/stepik-certificate-python.pdf](https://github.com/Asmoday87/Asmoday87/blob/main/certificate-SQL.pdf">Курс по SQL</a>
