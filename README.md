@@ -41,7 +41,7 @@
 </table>
 
 ### Тестовая документация:
-- Чек-лист
+- <a href = "https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Чек-лист</a>
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/test-case.md">Тест-кейсы</a>
 - Баг-репорт
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/sql.md">Работа с SQL-запросами</a>
