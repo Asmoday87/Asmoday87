@@ -2,7 +2,8 @@
 
 **Цель:** продемонстрировать работу с INSERT, DELETE, UPDATE, SELECT
 
-**Пояснение:** Все операции провожу над таблицей Profile
+**Пояснение:** Все операции провожу над таблицей Profile, которая имеет следующие поля last_login, username, first_name, last_name, email, 
+is_active, phone, date_of_birth.
 
 _Добавляю пользователя:_
 ```SQL
