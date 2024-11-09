@@ -40,7 +40,7 @@
   </tbody>
 </table>
 
-### Тестовая документация:
+### Тестовая документация (примеры моих работ):
 - <a href = "https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Чек-лист</a>
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/test-case.md">Тест-кейсы</a>
 - Баг-репорт
