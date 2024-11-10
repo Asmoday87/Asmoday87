@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Внимание к деталям</td>
-    <td>Инструменты: Postman, Swagger, QASE, DevTools, DBeaver, Яндекс Трекер, Git</td>
+    <td>Инструменты: Postman, Swagger, QASE, DevTools, DBeaver, Яндекс Трекер, Trello, Git</td>
   </tr>
   <tr>
     <td>Тайм-менеджмент</td>
