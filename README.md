@@ -31,11 +31,11 @@
   </tr>
   <tr>
     <td>Внимание к деталям</td>
-    <td>Инструменты: Postman, Swagger, QASE, DevTools, DBeaver, Яндекс Трекер, Trello, Git</td>
+    <td>Инструменты: Postman, Swagger, QASE, DevTools, DBeaver, Яндекс Трекер, Charles, Greylog, SQL (CRUD), Android Studio</td>
   </tr>
   <tr>
     <td>Тайм-менеджмент</td>
-    <td>Изучение логов ошибок и производительности для диагностики проблем</td>
+    <td>Изучение логов ошибок для диагностики проблем</td>
   </tr>
   </tbody>
 </table>
@@ -43,7 +43,7 @@
 ### Тестовая документация (примеры моих работ):
 - <a href = "https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Чек-лист</a>
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/test-case.md">Тест-кейсы</a>
-- Баг-репорт
+- <a href = "https://github.com/Asmoday87/Asmoday87/blob/main/bug.md">Баг-репорт</a>
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/sql.md">Работа с SQL-запросами</a>
 - Тестирование API. Postman.
 
