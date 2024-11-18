@@ -45,7 +45,7 @@
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/test-case.md">Тест-кейсы</a>
 - <a href = "https://github.com/Asmoday87/Asmoday87/blob/main/bug.md">Баг-репорт</a>
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/sql.md">Работа с SQL-запросами</a>
-- Тестирование API. Postman.
+- <a href = "https://github.com/Asmoday87/Asmoday87/blob/main/postman.md">Тестирование API. Postman</a>
 
 ### Сертификаты:
 - <a href="https://github.com/Asmoday87/Asmoday87/blob/main/certificate-SQL.pdf">Курс по SQL</a>
