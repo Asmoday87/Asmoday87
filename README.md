@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Внимание к деталям</td>
-    <td>Инструменты: Postman, Swagger, QASE, DevTools, DBeaver, Яндекс Трекер, Charles, Greylog, SQL (CRUD), Android Studio</td>
+    <td>Инструменты: Postman, Swagger, QASE, DevTools, DBeaver (SQL), Яндекс Трекер, Charles, Greylog, Android Studio</td>
   </tr>
   <tr>
     <td>Тайм-менеджмент</td>
